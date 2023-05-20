@@ -1,4 +1,5 @@
 import "./App.css";
+import Footer from "./footer/Footer";
 import Header from "./header/Header";
 import MainPanel from "./main-panel/MainPanel";
 
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <MainPanel />
+      <Footer />
     </div>
   );
 }
