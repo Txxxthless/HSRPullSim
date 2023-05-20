@@ -1,0 +1,11 @@
+.main-panel {
+  padding: 50px 30px 30px 30px;
+  color: white;
+}
+
+.main-panel-btn {
+  width: 30%;
+  color: white;
+  background-color: #707793;
+  border: 0;
+}
