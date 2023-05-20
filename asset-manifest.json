@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HSRPullSim/static/css/main.084a2daf.css",
+    "main.js": "/HSRPullSim/static/js/main.5a5334f9.js",
+    "static/js/787.253fe7f4.chunk.js": "/HSRPullSim/static/js/787.253fe7f4.chunk.js",
+    "static/media/pull.mp4": "/HSRPullSim/static/media/pull.891da97d44b59fbbf111.mp4",
+    "static/media/1.jpg": "/HSRPullSim/static/media/1.c07109c9f33c5ef03e75.jpg",
+    "static/media/3.jpg": "/HSRPullSim/static/media/3.7814a72a370170bbdae6.jpg",
+    "static/media/2.jpg": "/HSRPullSim/static/media/2.de38fb77dc68bf5154a5.jpg",
+    "index.html": "/HSRPullSim/index.html",
+    "main.084a2daf.css.map": "/HSRPullSim/static/css/main.084a2daf.css.map",
+    "main.5a5334f9.js.map": "/HSRPullSim/static/js/main.5a5334f9.js.map",
+    "787.253fe7f4.chunk.js.map": "/HSRPullSim/static/js/787.253fe7f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.084a2daf.css",
+    "static/js/main.5a5334f9.js"
+  ]
+}
