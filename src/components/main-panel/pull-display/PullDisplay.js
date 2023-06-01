@@ -1,6 +1,6 @@
 import React from "react";
 import "./pull-display.css";
-import pullvideo from "./images/pull.mp4";
+import pullvideo from "./video/pull.mp4";
 
 const PullDisplay = ({ isImage, returnHandler }) => {
   const pictureNumber = Math.ceil(Math.random() * 21);
